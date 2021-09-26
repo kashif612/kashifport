@@ -120,7 +120,7 @@ export const projectsListValue = {
       {
         type: 'text',
         highlight: 'green',
-        value: "Magicbricks is a property portal website where company provide the platform to sell the property it works over 100 cities in india and i work as an business development.so we meet with client and understand the need and help them aware of technology and also guide them the client for sell the property and we deal with builders and agents who working with us ."
+        value: "At MagicBricks I work on Desgining user Interface for client web application developing user friendly attarctive and cross browser web/mobile application."
       },
       {
         type: 'header',
@@ -128,17 +128,17 @@ export const projectsListValue = {
       },
       {
         type: 'text',
-        value:'I work as an business development so we represent the company to different client and also give the knowledge about productivity and technology to grow the business in the field of property and marketing in india the proeprty is business about 50 billion usd . so by getting client give the knowldge to how to grab the market'
-      },
+        value:'I have worked on responsive web designs.convert PSD files into web user interface.Fixing Cross Browser & Cross Platform CSS & SCSS Issues.and also work in response manager and the data area of admin panel and user admin panel to ease use of the application also give the better technology to magicbricks to get maximum profit to the company'      },
       {
         type: 'points',
-        value: [
-          'Demostrate the magicbricks website',
-          'Aware the client about the package',
-          'Deal with Builders & agent',
-          'Worked as an business developement ',
+        value:[
+          'JAVASCRIPT',
+          'Jquery UI',
+          'React & Angular FrameWork',
+          'HTML 5 & XHTML',
           'Help the client the trending market'
         ]
+      }
       }
     ]
   },
@@ -149,7 +149,7 @@ export const projectsListValue = {
     involvement: 'Major',
     link: {
       type: 'visit',
-      value:  'https://www.youtube.com'
+      value:  '#'
     },
     description: [
       {
@@ -232,7 +232,7 @@ export const projectsListValue = {
     involvement: 'Major',
     link: {
       type: 'visit',
-      value: 'http://benefactory.lo/'
+      value: 'http://benefactory.com/'
     },
     description: [
       {
@@ -308,39 +308,35 @@ export const projectsListValue = {
     ]
   },
   vc_music_player: {
-    name: 'VC Music Player',
+    name: 'HomeOnline',
     tech: ['android'],
     icon: vcMusicPlayerIcon,
-    involvement: 'Owned',
+    involvement: 'Intermediate',
     link: {
       type: 'download',
-      value: 'https://drive.google.com/open?id=1Fo3FSfu7NHTJ60Y0uQcWYpv6mX1Tetqe'
+      value: 'www.homeonline.com'
     },
     description: [
       {
         type: 'text',
         highlight: 'green',
-        value: 'The intention for this app was to reduce navigation and make the music library management seamless and simple while also having a unique features to play video with only music within a playlist and switch between music and video mode.<br/> It also has voice recognition implementation to play/pause, search, switch playlist, shuffle, etc.'
-      },
+        value:'At HomeOnline I work on Desgining user Interface for client web application developing user friendly attarctive and cross browser web/mobile application.'          },
+
       {
         type: 'text',
-        value: 'Created this app from its inception and screen designing in photoshop to its development and publishing, worked on this app during my college years and learned Android development mostly by building this app.'
-      },
-      {
-        type: 'text',
-        value: 'I did a blunder and lost the keystore so i was not able to upload the latest build on playstore and the current uploaded app is stuck with a version that has a runtime permission crash so had to unpublish from playstore to maintain the rating, have uploaded the latest apk on google drive, link available on the download button.'
+        value: 'At HomeOnline.com majorily i work in backend and some part of the front-end and make the interface more easy and in this i work as an senior developer so anyone stuck in programming i help them to implement the functionality and also address the developer what type of technology they will use for the development'
       },
       {
         type: 'points',
         title: 'Features :',
         value: [
-          'Offline voice recognition and continuous voice recognition implementation with pocket sphinx.',
-          '13 voice commands to control player',
-          'Floating Widget.',
-          'Home Widgets.',
-          'Automatically attach missing Album art to audio files',
-          '2 theme implementation.',
-          'Play video files with an option to listen to the audio only and switch between them.'
+          'PHP.',
+          'Laravel',
+          'HTML',
+          'CSS.',
+          'XTML',
+          'JAVASCRIPT',
+          'JQuery'
         ]
       }
     ]
